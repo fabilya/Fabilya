@@ -1,6 +1,6 @@
 ## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia.
 
-<summary><b>:computer: &nbsp;Languages and Tools:</b></summary>
+<b>:computer: &nbsp;Languages and Tools:</b>
 <br/>
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
