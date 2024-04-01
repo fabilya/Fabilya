@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ### 🚀 Quick Stats
+
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Fabilya&show_icons=true&line_height=21&theme=react" alt="Fabilya's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=fabilya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fabilya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=fabilya&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 </p>
 <!--
 **fabilya/fabilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
