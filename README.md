@@ -1,5 +1,4 @@
-## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia.
-
+## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia. ![](https://komarev.com/ghpvc/?username=fabilya&color=brightgreen)
 <b>:computer: &nbsp;Languages and Tools:</b>
 <br/>
 
