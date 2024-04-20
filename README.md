@@ -1,10 +1,6 @@
-## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia. ![](https://komarev.com/ghpvc/?username=fabilya&color=brightgreen)
-<img src="https://www.codewars.com/users/fabilya/badges/micro" width="170" height="auto">
+## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia. ![](https://komarev.com/ghpvc/?username=fabilya&color=brightgreen) <img src="https://www.codewars.com/users/fabilya/badges/micro" width="170" height="auto">
+
 <b>:computer: &nbsp;Languages and Tools:</b>
-<br/>
-
-
-
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)&nbsp;
@@ -31,17 +27,3 @@
   <br>
   <br>
 </p>
-<!--
-**fabilya/fabilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
