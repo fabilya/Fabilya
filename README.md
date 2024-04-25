@@ -1,4 +1,4 @@
-## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia. ![](https://komarev.com/ghpvc/?username=fabilya&color=brightgreen) <img src="https://www.codewars.com/users/fabilya/badges/micro" width="170" height="auto">
+## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia. <img src="https://www.codewars.com/users/fabilya/badges/micro" width="170" height="auto">
 
 <b>:computer: &nbsp;Languages and Tools:</b>
 
