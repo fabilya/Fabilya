@@ -20,6 +20,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-011BE0.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/PANDAS-300089.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-aa530d.svg?&style=flat&logo=matplotlib&logoColor=white)&nbsp;
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-2C85BF.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;
 
 
 
