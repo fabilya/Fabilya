@@ -18,11 +18,11 @@
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-E06813.svg?&style=flat&logo=jupyter&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-011BE0.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/JUPYTER-E06813.svg?&style=flat&logo=jupyter&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NUMPY-011BE0.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/PANDAS-300089.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-aa530d.svg?&style=flat&logo=matplotlib&logoColor=white)&nbsp;
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-2C85BF.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-aa530d.svg?&style=flat&logo=matplotlib&logoColor=white)&nbsp;
+![ScikitLearn](https://img.shields.io/badge/SKLEARN-2C85BF.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;
 
 
 
