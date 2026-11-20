@@ -1,4 +1,4 @@
-## Hi, I'm Ilya Fabiyanskiy, a Developer 🚀 from Russia. <a href="https://www.codewars.com/users/fabilya" target="_blank"><img src="https://www.codewars.com/users/fabilya/badges/micro" width="170" height="auto"></a>
+## ☠ <a href="https://www.codewars.com/users/fabilya" target="_blank"><img src="https://www.codewars.com/users/fabilya/badges/micro" width="170" height="auto"></a>
 
 <b>:computer: &nbsp;Languages and Tools:</b>
 
